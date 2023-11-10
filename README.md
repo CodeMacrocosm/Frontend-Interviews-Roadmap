@@ -1,7 +1,7 @@
 
 # Roadmap: Crack Frontend Interviews 🚀
 
-Welcome to Shreya Malogi's four-month journey to ace product-based frontend interviews! 🌟 Master HTML, CSS, JavaScript, frameworks, and DSA for success. 🏆 Prerequisites: Basic HTML, CSS, and JavaScript knowledge. 📚
+Welcome to Shreya Malogi's five-month journey to ace product-based frontend interviews! 🌟 Master HTML, CSS, JavaScript, frameworks, and DSA for success. 🏆 Prerequisites: Basic HTML, CSS, and JavaScript knowledge. 📚
 
 ## Month 1: Learning Fundamentals 📖
 
@@ -90,6 +90,48 @@ Welcome to Shreya Malogi's four-month journey to ace product-based frontend inte
 - **Resources:** [System Design Primer](https://github.com/donnemartin/system-design-primer)
 - **YouTube Channels:** [The Net Ninja](https://www.youtube.com/c/TheNetNinja)
 - **Projects:** Optimize project performance using tools like Lighthouse and collaborate on a project using GitHub or GitLab. 🤝
+
+
+### Month 5: Job Search and Interview Preparation 🌐🤝
+
+#### Week 1-2: Crafting a Standout Resume and Portfolio 📄
+- **Tasks:**
+  - Update your resume and portfolio with recent skills and projects.
+  - Emphasize your achievements and the impact of your projects.
+- **Tips:**
+  - [How to Write a Winning Resume](https://www.thebalancecareers.com/how-to-write-a-resume-2063336)
+  - [Portfolio Tips for Developers](https://www.freecodecamp.org/news/how-to-build-a-developer-portfolio-that-will-get-you-hired-5d38fe7f4f3e/)
+  - **Additional Reading:** [Building an Effective Developer Portfolio](https://www.sitepoint.com/how-to-build-an-effective-developer-portfolio/)
+
+#### Week 3: Job Search Strategies and Networking 🌐💼
+- **Tasks:**
+  - Explore job platforms like [LinkedIn](https://www.linkedin.com/), [Indeed](https://www.indeed.com/), and [Glassdoor](https://www.glassdoor.com/).
+  - Join relevant online communities (e.g., [Dev.to](https://dev.to/), [Stack Overflow](https://stackoverflow.com/)) and engage in discussions.
+- **Tips:**
+  - [Effective Networking Strategies](https://www.forbes.com/sites/kathycaprino/2017/01/04/10-powerful-ways-to-stand-out-in-a-crowded-job-market/?sh=2f5081ff4934)
+  - **Additional Reading:** [The Ultimate Guide to Job Searching in the Tech Industry](https://www.thebalancecareers.com/top-strategies-for-finding-a-job-2060734)
+
+#### Week 4: Preparing for Interviews and Technical Assessments 🗣️💻
+- **Tasks:**
+  - Conduct mock interviews with peers or mentors.
+  - Practice solving technical assessments on platforms like [LeetCode](https://leetcode.com/).
+- **Tips:**
+  - [Cracking the Coding Interview](http://www.crackingthecodinginterview.com/)
+  - [Tech Interview Handbook](https://yangshun.github.io/tech-interview-handbook/)
+  - [Pramp](https://www.pramp.com/)
+  - **Additional Reading:** [The Ultimate Guide to Coding Challenges](https://www.freecodecamp.org/news/the-ultimate-guide-to-coding-challenges-f8c0f0026252/)
+
+#### How to Use This Section 🛣️
+- **Focused Preparation:** Dedicate specific time slots for resume building, networking, and interview practice.
+- **Proactive Networking:** Actively engage in online communities, connect with professionals, and seek informational interviews.
+- **Iterative Improvement:** Continuously refine your resume, portfolio, and interview skills based on feedback.
+- **Mock Interviews:** Utilize platforms like [Interviewing.io](https://interviewing.io/) for additional mock interview practice.
+
+#### Additional Resources 📚💡
+- [Building a Killer LinkedIn Profile](https://business.linkedin.com/talent-solutions/resources/talent-engagement/tips-for-job-seekers/2018/ultimate-list-of-linkedin-profile-tips)
+- [Networking Tips for Developers](https://simpleprogrammer.com/networking-tips-for-developers/)
+- [Behavioral Interview Questions and Answers](https://www.indeed.com/career-advice/interviewing/behavioral-interview-questions)
+- [Negotiating Job Offers in Tech](https://haseebq.com/my-ten-rules-for-negotiating-a-job-offer/)
 
 
 
